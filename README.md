@@ -32,8 +32,8 @@ Studenții și cadrele didactice folosesc adesea materiale de verificare răspâ
 
 | Membru | Contact | Responsabilități |
 |--------|---------|------------------|
-| **[Nume Prenume – Student 1]** (persoană de contact) | [email] | Backend (API REST), autentificare și roluri, baza de date, logica de business (generare teste, calcul scor, statistici), import/export CSV, securitate pe server |
-| **[Nume Prenume – Student 2]** | [email] | Frontend (HTML/CSS/JS responsive, accesibilitate), grafice de progres (Chart.js), panou de administrare, testare (automată și manuală) |
+| **Angelovski Evgenij**  | evgenij.angelovski50@e-uvt.ro | Backend (API REST), autentificare și roluri, baza de date, logica de business (generare teste, calcul scor, statistici), import/export CSV, securitate pe server |
+| **Ionescu George-Alexandru** | george.ionescu05@e-uvt.ro | Frontend (HTML/CSS/JS responsive, accesibilitate), grafice de progres (Chart.js), panou de administrare, testare (automată și manuală) |
 
 Documentația, arhitectura și evidența GitHub sunt responsabilitate comună; ambii membri cunosc și pot explica arhitectura generală. Detalii în [implementation-plan.md](docs/implementation-plan.md).
 
