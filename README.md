@@ -75,18 +75,3 @@ Justificarea completă: [implementation-plan.md](docs/implementation-plan.md#1-j
 | [docs/architecture.md](docs/architecture.md) | Diagrama și descrierea arhitecturii |
 | [docs/data-model.md](docs/data-model.md) | Model de date, relații, endpoint-uri API |
 | [docs/implementation-plan.md](docs/implementation-plan.md) | Tehnologii, versionare, plan, responsabilități, riscuri |
-
-## 8. Rulare (se completează la Etapa 3)
-
-```bash
-git clone <url-repository>
-cd studyhub
-cp .env.example .env     # completați valorile locale; .env nu se urcă în repository
-npm install
-npm run db:init          # creează schema și datele de demonstrație
-npm start
-```
-
-## 9. Limitări cunoscute
-
-Se vor completa pe parcursul implementării.
