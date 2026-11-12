@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" font-family="Arial, sans-serif">
+<rect width="800" height="520" fill="#f5f5f5"/>
+<rect x="10" y="10" width="780" height="500" rx="8" fill="#fff" stroke="#999"/>
+<text x="30" y="38" font-size="16" font-weight="bold" fill="#222" text-anchor="start">06 – Profesor: Bancă de întrebări</text>
+<rect x="10" y="50" width="780" height="0" rx="4" fill="none" stroke="#ccc"/>
+<rect x="20" y="52" width="760" height="34" rx="4" fill="#e8eef7" stroke="#9ab"/>
+<text x="34" y="74" font-size="13" fill="#1a3a6b" text-anchor="start">StudyHub</text>
+<text x="126" y="74" font-size="13" font-weight="bold" fill="#1a3a6b" text-anchor="start">Bancă de întrebări</text>
+<text x="298" y="74" font-size="13" fill="#1a3a6b" text-anchor="start">Teste</text>
+<text x="366" y="74" font-size="13" fill="#1a3a6b" text-anchor="start">Statistici</text>
+<text x="474" y="74" font-size="13" fill="#1a3a6b" text-anchor="start">Cont</text>
+<text x="30" y="112" font-size="13" font-weight="bold" fill="#333" text-anchor="start">Materia:</text>
+<rect x="95" y="95" width="180" height="28" rx="4" fill="#fafafa" stroke="#888"/>
+<text x="105" y="114" font-size="12" fill="#333" text-anchor="start">Baze de date ▾</text>
+<rect x="290" y="95" width="150" height="28" rx="4" fill="#fafafa" stroke="#888"/>
+<text x="300" y="114" font-size="12" fill="#333" text-anchor="start">Capitol: toate ▾</text>
+<rect x="450" y="95" width="130" height="28" rx="4" fill="#fafafa" stroke="#888"/>
+<text x="460" y="114" font-size="12" fill="#333" text-anchor="start">Dificultate ▾</text>
+<rect x="600" y="92" width="170" height="32" rx="6" fill="#2b5fb3" stroke="#2b5fb3"/>
+<text x="685.0" y="113" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">+ Întrebare nouă</text>
+<rect x="30" y="140" width="740" height="30" rx="4" fill="#dde6f3" stroke="#888"/>
+<text x="40" y="160" font-size="12" font-weight="bold" fill="#333" text-anchor="start">Întrebare</text>
+<text x="420" y="160" font-size="12" font-weight="bold" fill="#333" text-anchor="start">Capitol</text>
+<text x="580" y="160" font-size="12" font-weight="bold" fill="#333" text-anchor="start">Dificultate</text>
+<text x="680" y="160" font-size="12" font-weight="bold" fill="#333" text-anchor="start">Acțiuni</text>
+<rect x="30" y="176" width="740" height="34" rx="4" fill="#fafafa" stroke="#ddd"/>
+<text x="40" y="198" font-size="12" fill="#333" text-anchor="start">Ce returnează un INNER JOIN?</text>
+<text x="420" y="198" font-size="12" fill="#333" text-anchor="start">SQL – JOIN-uri</text>
+<text x="580" y="198" font-size="12" fill="#333" text-anchor="start">mediu</text>
+<text x="680" y="198" font-size="12" fill="#2b5fb3" text-anchor="start">Editează · Șterge</text>
+<rect x="30" y="216" width="740" height="34" rx="4" fill="#fafafa" stroke="#ddd"/>
+<text x="40" y="238" font-size="12" fill="#333" text-anchor="start">Ce este o cheie primară?</text>
+<text x="420" y="238" font-size="12" fill="#333" text-anchor="start">Modelare</text>
+<text x="580" y="238" font-size="12" fill="#333" text-anchor="start">ușor</text>
+<text x="680" y="238" font-size="12" fill="#2b5fb3" text-anchor="start">Editează · Șterge</text>
+<rect x="30" y="256" width="740" height="34" rx="4" fill="#fafafa" stroke="#ddd"/>
+<text x="40" y="278" font-size="12" fill="#333" text-anchor="start">Ce face GROUP BY?</text>
+<text x="420" y="278" font-size="12" fill="#333" text-anchor="start">Agregare</text>
+<text x="580" y="278" font-size="12" fill="#333" text-anchor="start">mediu</text>
+<text x="680" y="278" font-size="12" fill="#2b5fb3" text-anchor="start">Editează · Șterge</text>
+<rect x="30" y="296" width="740" height="34" rx="4" fill="#fafafa" stroke="#ddd"/>
+<text x="40" y="318" font-size="12" fill="#333" text-anchor="start">Ce este un index compus?</text>
+<text x="420" y="318" font-size="12" fill="#333" text-anchor="start">Indexuri</text>
+<text x="580" y="318" font-size="12" fill="#333" text-anchor="start">greu</text>
+<text x="680" y="318" font-size="12" fill="#2b5fb3" text-anchor="start">Editează · Șterge</text>
+<rect x="30" y="360" width="150" height="32" rx="6" fill="#fff" stroke="#2b5fb3"/>
+<text x="105.0" y="381" font-size="13" font-weight="bold" fill="#2b5fb3" text-anchor="middle">Import CSV</text>
+<rect x="190" y="360" width="150" height="32" rx="6" fill="#fff" stroke="#2b5fb3"/>
+<text x="265.0" y="381" font-size="13" font-weight="bold" fill="#2b5fb3" text-anchor="middle">Export CSV</text>
+<text x="600" y="380" font-size="12" fill="#333" text-anchor="start">Pagina 1 / 5   ‹ 1 2 3 ›</text>
+<text x="30" y="420" font-size="11" fill="#a33" text-anchor="start">Paginare + filtre; ștergerea cere confirmare</text>
+</svg>

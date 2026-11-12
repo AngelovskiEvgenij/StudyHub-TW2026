@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" font-family="Arial, sans-serif">
+<rect width="800" height="520" fill="#f5f5f5"/>
+<rect x="10" y="10" width="780" height="500" rx="8" fill="#fff" stroke="#999"/>
+<text x="30" y="38" font-size="16" font-weight="bold" fill="#222" text-anchor="start">03 – Student: Test nou</text>
+<rect x="10" y="50" width="780" height="0" rx="4" fill="none" stroke="#ccc"/>
+<rect x="20" y="52" width="760" height="34" rx="4" fill="#e8eef7" stroke="#9ab"/>
+<text x="34" y="74" font-size="13" fill="#1a3a6b" text-anchor="start">StudyHub</text>
+<text x="126" y="74" font-size="13" font-weight="bold" fill="#1a3a6b" text-anchor="start">Teste</text>
+<text x="194" y="74" font-size="13" fill="#1a3a6b" text-anchor="start">Progres</text>
+<text x="278" y="74" font-size="13" fill="#1a3a6b" text-anchor="start">Cont</text>
+<rect x="180" y="100" width="440" height="340" rx="4" fill="#fafafa" stroke="#888"/>
+<text x="200" y="130" font-size="15" font-weight="bold" fill="#333" text-anchor="start">Generează test de exersare</text>
+<text x="200" y="155" font-size="12" font-weight="bold" fill="#333" text-anchor="start">Materie</text>
+<rect x="200" y="161" width="400" height="30" rx="4" fill="#fafafa" stroke="#888"/>
+<text x="208" y="181" font-size="12" fill="#999" text-anchor="start">Baze de date  ▾</text>
+<text x="200" y="225" font-size="12" font-weight="bold" fill="#333" text-anchor="start">Capitole</text>
+<rect x="200" y="236" width="16" height="16" rx="4" fill="#fff" stroke="#888"/>
+<text x="224" y="249" font-size="12" fill="#333" text-anchor="start">SQL – JOIN-uri</text>
+<rect x="200" y="264" width="16" height="16" rx="4" fill="#fff" stroke="#888"/>
+<text x="224" y="277" font-size="12" fill="#333" text-anchor="start">Normalizare</text>
+<rect x="200" y="292" width="16" height="16" rx="4" fill="#fff" stroke="#888"/>
+<text x="224" y="305" font-size="12" fill="#333" text-anchor="start">Tranzacții</text>
+<text x="200" y="330" font-size="12" font-weight="bold" fill="#333" text-anchor="start">Număr întrebări</text>
+<rect x="200" y="336" width="150" height="30" rx="4" fill="#fafafa" stroke="#888"/>
+<text x="208" y="356" font-size="12" fill="#999" text-anchor="start">10</text>
+<rect x="200" y="395" width="180" height="32" rx="6" fill="#2b5fb3" stroke="#2b5fb3"/>
+<text x="290.0" y="416" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">Începe testul</text>
+<text x="400" y="413" font-size="11" fill="#a33" text-anchor="start">Max. disponibil afișat (ex. 24 întrebări)</text>
+</svg>
